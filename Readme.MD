@@ -1,7 +1,7 @@
 Releases for ETVaultGuard
 # Changelog
 ETVaultGuard v8.0 - The Cross-Platform Update
-  This major update marks the transition of ETVaultGuard from a Windows-centric tool to a robust, cross-platform security suite. Version 2.0.0 introduces full Linux support, direct file creation, and intelligent UI adaptations, alongside significant security enhancements.
+  This major update marks the transition of ETVaultGuard from a Windows-centric tool to a robust, cross-platform security suite. Version 8.0 introduces full Linux support, direct file creation, and intelligent UI adaptations, alongside significant security enhancements.
   
   New Features
   Cross-Platform Support: Full compatibility with both Windows and Linux. The application now intelligently detects the operating system to handle file systems and permissions correctly.
@@ -36,3 +36,7 @@ ETVaultGuard v8.0 - The Cross-Platform Update
   Slight internal structure change
   
   Add liquibase for Business structure so that setup is easier.
+
+
+
+Download the files either from the releases page, or from the (website)[https://englandtechnologies.net], where you can buy the access key.
