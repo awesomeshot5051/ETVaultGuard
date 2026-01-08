@@ -39,4 +39,4 @@ ETVaultGuard v8.0 - The Cross-Platform Update
 
 
 
-Download the files either from the releases page, or from the [website](https://englandtechnologies.net), where you can buy the access key.
+Download the files either from the [releases](https://github.com/awesomeshot5051/ETVaultGuard/releases) page, or from the [website](https://englandtechnologies.net), where you can buy the access key.
